@@ -1,6 +1,8 @@
 # Phase1-Project
 Microsoft Movie Studio
-![image.png](attachment:image.png)
+
+
+![image.png](images/popcorn.png)
 
 
 ## Overview
