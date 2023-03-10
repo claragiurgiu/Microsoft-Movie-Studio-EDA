@@ -1,5 +1,5 @@
-# Phase1-Project
-Microsoft Movie Studio
+
+# Microsoft Movie Studio
 
 
 ![image.png](images/popcorn.png)
