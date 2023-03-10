@@ -28,7 +28,7 @@ The mean between the profit in the domestic market and the international market 
 ![image](images/Domestic_vs_Worldwide_mean.png)
 
 The movie runtime should be between 100-140 minutes as it made the most profit relative to its runtime. Anything below 99 minutes had a less profit and anything above 140 minutes had the worst amount of profit.
-![image](images/Runtime_vs_profit.png)\
+![image](images/Runtime_vs_profit.png)
 
 ## Conclusions
 Based on the information in the data sets, we can see the highest rated genres are Documentary, Biography, Adventure, Drama, Crime, Comedy, Action, Thriller and Horror. We recommend venturing into those fields as we explore what types of movies to make at Microsof's new studio.
