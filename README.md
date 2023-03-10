@@ -41,3 +41,4 @@ Based on the above analysis the movies that have made the most profit are not ve
 This dataset looks at movie information from 2010-2019. As seen on the graph, some genres that have been popular in the last few years such as Action and Comedy are on the lower end of the spectrum and is worth considering other measures in addition to genre to determine not just volume, but the profits involved in those genres. Profit, ROI or gross were not included in this dataset.
 
 ## For More Information
+See the full analysis in the [Jupyter Notebook](./MIcrosoft_Movie_Studio_Analysis.ipynb) or review this [presentation](./Microsoft Proposal(1).pdf).
